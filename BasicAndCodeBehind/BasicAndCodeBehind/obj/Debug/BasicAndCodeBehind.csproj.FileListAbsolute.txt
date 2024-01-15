@@ -1,0 +1,15 @@
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicAndCodeBehind\BasicAndCodeBehind\bin\Debug\BasicAndCodeBehind.exe.config
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicAndCodeBehind\BasicAndCodeBehind\bin\Debug\BasicAndCodeBehind.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicAndCodeBehind\BasicAndCodeBehind\bin\Debug\BasicAndCodeBehind.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicAndCodeBehind\BasicAndCodeBehind\obj\Debug\BasicAndCodeBehind.csproj.AssemblyReference.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicAndCodeBehind\BasicAndCodeBehind\obj\Debug\MainWindow.g.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicAndCodeBehind\BasicAndCodeBehind\obj\Debug\App.g.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicAndCodeBehind\BasicAndCodeBehind\obj\Debug\BasicAndCodeBehind_MarkupCompile.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicAndCodeBehind\BasicAndCodeBehind\obj\Debug\BasicAndCodeBehind_MarkupCompile.lref
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicAndCodeBehind\BasicAndCodeBehind\obj\Debug\MainWindow.baml
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicAndCodeBehind\BasicAndCodeBehind\obj\Debug\BasicAndCodeBehind.g.resources
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicAndCodeBehind\BasicAndCodeBehind\obj\Debug\BasicAndCodeBehind.Properties.Resources.resources
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicAndCodeBehind\BasicAndCodeBehind\obj\Debug\BasicAndCodeBehind.csproj.GenerateResource.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicAndCodeBehind\BasicAndCodeBehind\obj\Debug\BasicAndCodeBehind.csproj.CoreCompileInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicAndCodeBehind\BasicAndCodeBehind\obj\Debug\BasicAndCodeBehind.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicAndCodeBehind\BasicAndCodeBehind\obj\Debug\BasicAndCodeBehind.pdb
