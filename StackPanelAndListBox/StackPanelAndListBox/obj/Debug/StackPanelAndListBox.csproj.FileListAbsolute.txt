@@ -1,0 +1,15 @@
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\StackPanelAndListBox\StackPanelAndListBox\bin\Debug\StackPanelAndListBox.exe.config
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\StackPanelAndListBox\StackPanelAndListBox\bin\Debug\StackPanelAndListBox.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\StackPanelAndListBox\StackPanelAndListBox\bin\Debug\StackPanelAndListBox.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\StackPanelAndListBox\StackPanelAndListBox\obj\Debug\StackPanelAndListBox.csproj.AssemblyReference.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\StackPanelAndListBox\StackPanelAndListBox\obj\Debug\MainWindow.g.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\StackPanelAndListBox\StackPanelAndListBox\obj\Debug\App.g.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\StackPanelAndListBox\StackPanelAndListBox\obj\Debug\StackPanelAndListBox_MarkupCompile.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\StackPanelAndListBox\StackPanelAndListBox\obj\Debug\StackPanelAndListBox_MarkupCompile.lref
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\StackPanelAndListBox\StackPanelAndListBox\obj\Debug\MainWindow.baml
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\StackPanelAndListBox\StackPanelAndListBox\obj\Debug\StackPanelAndListBox.g.resources
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\StackPanelAndListBox\StackPanelAndListBox\obj\Debug\StackPanelAndListBox.Properties.Resources.resources
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\StackPanelAndListBox\StackPanelAndListBox\obj\Debug\StackPanelAndListBox.csproj.GenerateResource.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\StackPanelAndListBox\StackPanelAndListBox\obj\Debug\StackPanelAndListBox.csproj.CoreCompileInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\StackPanelAndListBox\StackPanelAndListBox\obj\Debug\StackPanelAndListBox.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\StackPanelAndListBox\StackPanelAndListBox\obj\Debug\StackPanelAndListBox.pdb
