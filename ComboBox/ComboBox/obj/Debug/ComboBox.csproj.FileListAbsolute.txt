@@ -1,0 +1,15 @@
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ComboBox\ComboBox\bin\Debug\ComboBox.exe.config
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ComboBox\ComboBox\bin\Debug\ComboBox.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ComboBox\ComboBox\bin\Debug\ComboBox.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.AssemblyReference.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ComboBox\ComboBox\obj\Debug\MainWindow.g.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ComboBox\ComboBox\obj\Debug\App.g.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ComboBox\ComboBox\obj\Debug\ComboBox_MarkupCompile.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ComboBox\ComboBox\obj\Debug\ComboBox_MarkupCompile.lref
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ComboBox\ComboBox\obj\Debug\MainWindow.baml
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ComboBox\ComboBox\obj\Debug\ComboBox.g.resources
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ComboBox\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ComboBox\ComboBox\obj\Debug\ComboBox.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ComboBox\ComboBox\obj\Debug\ComboBox.pdb
