@@ -1,0 +1,29 @@
+﻿<Window x:Class="DataBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataBinding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <!--
+    4 modes of Data Binding:
+    Oneway: source -> target
+    Twoway: source <->target
+    OneWayToSource: source <- target
+    OneTime: Only set during initialization of code behind
+    -->
+
+    <StackPanel>
+        <TextBox Text="{Binding ElementName=MySlider, 
+            Path=Value, Mode=TwoWay, 
+            UpdateSourceTrigger=PropertyChanged}"
+                 Name="MyTextBox"
+                 Width="100"
+                 Margin="50" />
+        <Slider Name="MySlider" 
+                IsSnapToTickEnabled="True"
+                Minimum="0"
+                Maximum="100" />
+    </StackPanel>
+</Window>
