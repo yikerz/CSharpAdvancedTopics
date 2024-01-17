@@ -1,0 +1,15 @@
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicLoginWindow\BasicLoginWindow\bin\Debug\BasicLoginWindow.exe.config
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicLoginWindow\BasicLoginWindow\bin\Debug\BasicLoginWindow.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicLoginWindow\BasicLoginWindow\bin\Debug\BasicLoginWindow.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicLoginWindow\BasicLoginWindow\obj\Debug\BasicLoginWindow.csproj.AssemblyReference.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicLoginWindow\BasicLoginWindow\obj\Debug\MainWindow.g.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicLoginWindow\BasicLoginWindow\obj\Debug\App.g.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicLoginWindow\BasicLoginWindow\obj\Debug\BasicLoginWindow_MarkupCompile.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicLoginWindow\BasicLoginWindow\obj\Debug\BasicLoginWindow_MarkupCompile.lref
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicLoginWindow\BasicLoginWindow\obj\Debug\MainWindow.baml
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicLoginWindow\BasicLoginWindow\obj\Debug\BasicLoginWindow.g.resources
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicLoginWindow\BasicLoginWindow\obj\Debug\BasicLoginWindow.Properties.Resources.resources
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicLoginWindow\BasicLoginWindow\obj\Debug\BasicLoginWindow.csproj.GenerateResource.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicLoginWindow\BasicLoginWindow\obj\Debug\BasicLoginWindow.csproj.CoreCompileInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicLoginWindow\BasicLoginWindow\obj\Debug\BasicLoginWindow.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\BasicLoginWindow\BasicLoginWindow\obj\Debug\BasicLoginWindow.pdb
