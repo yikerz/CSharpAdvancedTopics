@@ -1,0 +1,15 @@
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\PropertyDataAndEventTriggers\PropertyDataAndEventTriggers\bin\Debug\PropertyDataAndEventTriggers.exe.config
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\PropertyDataAndEventTriggers\PropertyDataAndEventTriggers\bin\Debug\PropertyDataAndEventTriggers.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\PropertyDataAndEventTriggers\PropertyDataAndEventTriggers\bin\Debug\PropertyDataAndEventTriggers.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\PropertyDataAndEventTriggers\PropertyDataAndEventTriggers\obj\Debug\PropertyDataAndEventTriggers.csproj.AssemblyReference.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\PropertyDataAndEventTriggers\PropertyDataAndEventTriggers\obj\Debug\MainWindow.g.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\PropertyDataAndEventTriggers\PropertyDataAndEventTriggers\obj\Debug\App.g.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\PropertyDataAndEventTriggers\PropertyDataAndEventTriggers\obj\Debug\PropertyDataAndEventTriggers_MarkupCompile.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\PropertyDataAndEventTriggers\PropertyDataAndEventTriggers\obj\Debug\PropertyDataAndEventTriggers_MarkupCompile.lref
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\PropertyDataAndEventTriggers\PropertyDataAndEventTriggers\obj\Debug\MainWindow.baml
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\PropertyDataAndEventTriggers\PropertyDataAndEventTriggers\obj\Debug\PropertyDataAndEventTriggers.g.resources
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\PropertyDataAndEventTriggers\PropertyDataAndEventTriggers\obj\Debug\PropertyDataAndEventTriggers.Properties.Resources.resources
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\PropertyDataAndEventTriggers\PropertyDataAndEventTriggers\obj\Debug\PropertyDataAndEventTriggers.csproj.GenerateResource.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\PropertyDataAndEventTriggers\PropertyDataAndEventTriggers\obj\Debug\PropertyDataAndEventTriggers.csproj.CoreCompileInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\PropertyDataAndEventTriggers\PropertyDataAndEventTriggers\obj\Debug\PropertyDataAndEventTriggers.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\PropertyDataAndEventTriggers\PropertyDataAndEventTriggers\obj\Debug\PropertyDataAndEventTriggers.pdb
