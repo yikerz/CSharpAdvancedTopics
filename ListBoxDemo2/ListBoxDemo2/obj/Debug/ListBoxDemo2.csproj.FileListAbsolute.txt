@@ -1,0 +1,15 @@
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ListBoxDemo2\ListBoxDemo2\bin\Debug\ListBoxDemo2.exe.config
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ListBoxDemo2\ListBoxDemo2\bin\Debug\ListBoxDemo2.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ListBoxDemo2\ListBoxDemo2\bin\Debug\ListBoxDemo2.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ListBoxDemo2\ListBoxDemo2\obj\Debug\ListBoxDemo2.csproj.AssemblyReference.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ListBoxDemo2\ListBoxDemo2\obj\Debug\MainWindow.g.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ListBoxDemo2\ListBoxDemo2\obj\Debug\App.g.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ListBoxDemo2\ListBoxDemo2\obj\Debug\ListBoxDemo2_MarkupCompile.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ListBoxDemo2\ListBoxDemo2\obj\Debug\ListBoxDemo2_MarkupCompile.lref
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ListBoxDemo2\ListBoxDemo2\obj\Debug\MainWindow.baml
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ListBoxDemo2\ListBoxDemo2\obj\Debug\ListBoxDemo2.g.resources
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ListBoxDemo2\ListBoxDemo2\obj\Debug\ListBoxDemo2.Properties.Resources.resources
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ListBoxDemo2\ListBoxDemo2\obj\Debug\ListBoxDemo2.csproj.GenerateResource.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ListBoxDemo2\ListBoxDemo2\obj\Debug\ListBoxDemo2.csproj.CoreCompileInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ListBoxDemo2\ListBoxDemo2\obj\Debug\ListBoxDemo2.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\ListBoxDemo2\ListBoxDemo2\obj\Debug\ListBoxDemo2.pdb
