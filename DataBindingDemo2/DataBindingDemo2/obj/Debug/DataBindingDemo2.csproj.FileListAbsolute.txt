@@ -1,0 +1,15 @@
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\DataBindingDemo2\DataBindingDemo2\bin\Debug\DataBindingDemo2.exe.config
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\DataBindingDemo2\DataBindingDemo2\bin\Debug\DataBindingDemo2.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\DataBindingDemo2\DataBindingDemo2\bin\Debug\DataBindingDemo2.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\DataBindingDemo2\DataBindingDemo2\obj\Debug\DataBindingDemo2.csproj.AssemblyReference.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\DataBindingDemo2\DataBindingDemo2\obj\Debug\MainWindow.g.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\DataBindingDemo2\DataBindingDemo2\obj\Debug\App.g.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\DataBindingDemo2\DataBindingDemo2\obj\Debug\DataBindingDemo2_MarkupCompile.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\DataBindingDemo2\DataBindingDemo2\obj\Debug\DataBindingDemo2_MarkupCompile.lref
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\DataBindingDemo2\DataBindingDemo2\obj\Debug\MainWindow.baml
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\DataBindingDemo2\DataBindingDemo2\obj\Debug\DataBindingDemo2.g.resources
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\DataBindingDemo2\DataBindingDemo2\obj\Debug\DataBindingDemo2.Properties.Resources.resources
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\DataBindingDemo2\DataBindingDemo2\obj\Debug\DataBindingDemo2.csproj.GenerateResource.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\DataBindingDemo2\DataBindingDemo2\obj\Debug\DataBindingDemo2.csproj.CoreCompileInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\DataBindingDemo2\DataBindingDemo2\obj\Debug\DataBindingDemo2.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\DataBindingDemo2\DataBindingDemo2\obj\Debug\DataBindingDemo2.pdb

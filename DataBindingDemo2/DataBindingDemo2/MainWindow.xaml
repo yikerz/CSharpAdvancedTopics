@@ -1,0 +1,36 @@
+﻿<Window x:Class="DataBindingDemo2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataBindingDemo2"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Height="156"
+        Width="306"
+        ResizeMode="NoResize">
+    <StackPanel>
+        <StackPanel Margin="10"
+                    HorizontalAlignment="Center"
+                    Orientation="Horizontal">
+            <Label Content="Name"
+                   Width="50" />
+            <TextBox Width="200"
+                     FontSize="15"
+                     Text="{Binding Path=Name, Mode=TwoWay}"/>
+        </StackPanel>
+        <StackPanel Margin="0,0,0,10"
+                    HorizontalAlignment="Center"
+                    Orientation="Horizontal">
+            <Label Content="Age"
+                   Width="50" />
+            <TextBox Width="200"
+                     FontSize="15"
+                     Text="{Binding Path=Age, Mode=TwoWay}"/>
+        </StackPanel>
+        <Button Width="250"
+                Height="25"
+                Content="Info"
+                Click="Button_Click" />
+    </StackPanel>
+</Window>
