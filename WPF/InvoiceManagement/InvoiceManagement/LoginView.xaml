@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="InvoiceManagement.LoginView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:InvoiceManagement"
+             mc:Ignorable="d" 
+             d:DesignHeight="350" d:DesignWidth="600 ">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="10" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="10" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="10" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="10"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="1"
+                    Grid.Column="1"
+                    Orientation="Vertical"
+                    VerticalAlignment="Center">
+            <TextBlock Text="Login"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   FontSize="24" />
+            <Label Content="Please enter password:"
+                   Margin="0,20,0,0"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   FontSize="15"/>
+        </StackPanel>
+        <PasswordBox Grid.Row="3"
+                     Grid.Column="1"
+                     Width="200"
+                     Height="30"
+                     x:Name="PasswordBox"
+                     PasswordChanged="OnChange"/>
+        <Button Content="Login"
+                Grid.Row="5"
+                Grid.Column="1"
+                Width="100"
+                Height="30"
+                Click="LoginButton_Click"
+                x:Name="LoginButton"
+                IsEnabled="False"/>
+    </Grid>
+</UserControl>
