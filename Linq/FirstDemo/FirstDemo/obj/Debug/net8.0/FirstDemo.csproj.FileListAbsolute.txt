@@ -1,0 +1,15 @@
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\FirstDemo\FirstDemo\bin\Debug\net8.0\FirstDemo.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\FirstDemo\FirstDemo\bin\Debug\net8.0\FirstDemo.deps.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\FirstDemo\FirstDemo\bin\Debug\net8.0\FirstDemo.runtimeconfig.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\FirstDemo\FirstDemo\bin\Debug\net8.0\FirstDemo.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\FirstDemo\FirstDemo\bin\Debug\net8.0\FirstDemo.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\FirstDemo\FirstDemo\obj\Debug\net8.0\FirstDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\FirstDemo\FirstDemo\obj\Debug\net8.0\FirstDemo.AssemblyInfoInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\FirstDemo\FirstDemo\obj\Debug\net8.0\FirstDemo.AssemblyInfo.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\FirstDemo\FirstDemo\obj\Debug\net8.0\FirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\FirstDemo\FirstDemo\obj\Debug\net8.0\FirstDemo.sourcelink.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\FirstDemo\FirstDemo\obj\Debug\net8.0\FirstDemo.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\FirstDemo\FirstDemo\obj\Debug\net8.0\refint\FirstDemo.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\FirstDemo\FirstDemo\obj\Debug\net8.0\FirstDemo.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\FirstDemo\FirstDemo\obj\Debug\net8.0\FirstDemo.genruntimeconfig.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\FirstDemo\FirstDemo\obj\Debug\net8.0\ref\FirstDemo.dll
