@@ -1,0 +1,15 @@
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqToObjects\LinqToObjects\bin\Debug\net8.0\LinqToObjects.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqToObjects\LinqToObjects\bin\Debug\net8.0\LinqToObjects.deps.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqToObjects\LinqToObjects\bin\Debug\net8.0\LinqToObjects.runtimeconfig.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqToObjects\LinqToObjects\bin\Debug\net8.0\LinqToObjects.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqToObjects\LinqToObjects\bin\Debug\net8.0\LinqToObjects.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqToObjects\LinqToObjects\obj\Debug\net8.0\LinqToObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqToObjects\LinqToObjects\obj\Debug\net8.0\LinqToObjects.AssemblyInfoInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqToObjects\LinqToObjects\obj\Debug\net8.0\LinqToObjects.AssemblyInfo.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqToObjects\LinqToObjects\obj\Debug\net8.0\LinqToObjects.csproj.CoreCompileInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqToObjects\LinqToObjects\obj\Debug\net8.0\LinqToObjects.sourcelink.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqToObjects\LinqToObjects\obj\Debug\net8.0\LinqToObjects.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqToObjects\LinqToObjects\obj\Debug\net8.0\refint\LinqToObjects.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqToObjects\LinqToObjects\obj\Debug\net8.0\LinqToObjects.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqToObjects\LinqToObjects\obj\Debug\net8.0\LinqToObjects.genruntimeconfig.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqToObjects\LinqToObjects\obj\Debug\net8.0\ref\LinqToObjects.dll
