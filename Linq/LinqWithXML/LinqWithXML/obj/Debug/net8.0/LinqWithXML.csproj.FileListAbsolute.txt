@@ -1,0 +1,15 @@
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqWithXML\LinqWithXML\bin\Debug\net8.0\LinqWithXML.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqWithXML\LinqWithXML\bin\Debug\net8.0\LinqWithXML.deps.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqWithXML\LinqWithXML\bin\Debug\net8.0\LinqWithXML.runtimeconfig.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqWithXML\LinqWithXML\bin\Debug\net8.0\LinqWithXML.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqWithXML\LinqWithXML\bin\Debug\net8.0\LinqWithXML.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqWithXML\LinqWithXML\obj\Debug\net8.0\LinqWithXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqWithXML\LinqWithXML\obj\Debug\net8.0\LinqWithXML.AssemblyInfoInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqWithXML\LinqWithXML\obj\Debug\net8.0\LinqWithXML.AssemblyInfo.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqWithXML\LinqWithXML\obj\Debug\net8.0\LinqWithXML.csproj.CoreCompileInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqWithXML\LinqWithXML\obj\Debug\net8.0\LinqWithXML.sourcelink.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqWithXML\LinqWithXML\obj\Debug\net8.0\LinqWithXML.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqWithXML\LinqWithXML\obj\Debug\net8.0\refint\LinqWithXML.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqWithXML\LinqWithXML\obj\Debug\net8.0\LinqWithXML.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqWithXML\LinqWithXML\obj\Debug\net8.0\LinqWithXML.genruntimeconfig.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Linq\LinqWithXML\LinqWithXML\obj\Debug\net8.0\ref\LinqWithXML.dll
