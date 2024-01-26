@@ -1,0 +1,15 @@
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\CustomizedGetterSetter\CustomizedGetterSetter\bin\Debug\net8.0\CustomizedGetterSetter.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\CustomizedGetterSetter\CustomizedGetterSetter\bin\Debug\net8.0\CustomizedGetterSetter.deps.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\CustomizedGetterSetter\CustomizedGetterSetter\bin\Debug\net8.0\CustomizedGetterSetter.runtimeconfig.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\CustomizedGetterSetter\CustomizedGetterSetter\bin\Debug\net8.0\CustomizedGetterSetter.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\CustomizedGetterSetter\CustomizedGetterSetter\bin\Debug\net8.0\CustomizedGetterSetter.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\CustomizedGetterSetter\CustomizedGetterSetter\obj\Debug\net8.0\CustomizedGetterSetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\CustomizedGetterSetter\CustomizedGetterSetter\obj\Debug\net8.0\CustomizedGetterSetter.AssemblyInfoInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\CustomizedGetterSetter\CustomizedGetterSetter\obj\Debug\net8.0\CustomizedGetterSetter.AssemblyInfo.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\CustomizedGetterSetter\CustomizedGetterSetter\obj\Debug\net8.0\CustomizedGetterSetter.csproj.CoreCompileInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\CustomizedGetterSetter\CustomizedGetterSetter\obj\Debug\net8.0\CustomizedGetterSetter.sourcelink.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\CustomizedGetterSetter\CustomizedGetterSetter\obj\Debug\net8.0\CustomizedGetterSetter.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\CustomizedGetterSetter\CustomizedGetterSetter\obj\Debug\net8.0\refint\CustomizedGetterSetter.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\CustomizedGetterSetter\CustomizedGetterSetter\obj\Debug\net8.0\CustomizedGetterSetter.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\CustomizedGetterSetter\CustomizedGetterSetter\obj\Debug\net8.0\CustomizedGetterSetter.genruntimeconfig.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\CustomizedGetterSetter\CustomizedGetterSetter\obj\Debug\net8.0\ref\CustomizedGetterSetter.dll
