@@ -1,0 +1,15 @@
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Others\EventsAndMulticastDelegates\EventsAndMulticastDelegates\bin\Debug\net8.0\EventsAndMulticastDelegates.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Others\EventsAndMulticastDelegates\EventsAndMulticastDelegates\bin\Debug\net8.0\EventsAndMulticastDelegates.deps.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Others\EventsAndMulticastDelegates\EventsAndMulticastDelegates\bin\Debug\net8.0\EventsAndMulticastDelegates.runtimeconfig.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Others\EventsAndMulticastDelegates\EventsAndMulticastDelegates\bin\Debug\net8.0\EventsAndMulticastDelegates.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Others\EventsAndMulticastDelegates\EventsAndMulticastDelegates\bin\Debug\net8.0\EventsAndMulticastDelegates.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Others\EventsAndMulticastDelegates\EventsAndMulticastDelegates\obj\Debug\net8.0\EventsAndMulticastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Others\EventsAndMulticastDelegates\EventsAndMulticastDelegates\obj\Debug\net8.0\EventsAndMulticastDelegates.AssemblyInfoInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Others\EventsAndMulticastDelegates\EventsAndMulticastDelegates\obj\Debug\net8.0\EventsAndMulticastDelegates.AssemblyInfo.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Others\EventsAndMulticastDelegates\EventsAndMulticastDelegates\obj\Debug\net8.0\EventsAndMulticastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Others\EventsAndMulticastDelegates\EventsAndMulticastDelegates\obj\Debug\net8.0\EventsAndMulticastDelegates.sourcelink.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Others\EventsAndMulticastDelegates\EventsAndMulticastDelegates\obj\Debug\net8.0\EventsAndMulticastDelegates.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Others\EventsAndMulticastDelegates\EventsAndMulticastDelegates\obj\Debug\net8.0\refint\EventsAndMulticastDelegates.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Others\EventsAndMulticastDelegates\EventsAndMulticastDelegates\obj\Debug\net8.0\EventsAndMulticastDelegates.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Others\EventsAndMulticastDelegates\EventsAndMulticastDelegates\obj\Debug\net8.0\EventsAndMulticastDelegates.genruntimeconfig.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Others\EventsAndMulticastDelegates\EventsAndMulticastDelegates\obj\Debug\net8.0\ref\EventsAndMulticastDelegates.dll
