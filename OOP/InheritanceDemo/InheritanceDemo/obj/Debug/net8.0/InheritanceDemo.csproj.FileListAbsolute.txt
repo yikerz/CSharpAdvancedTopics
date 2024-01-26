@@ -1,0 +1,15 @@
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\InheritanceDemo\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\InheritanceDemo\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.deps.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\InheritanceDemo\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.runtimeconfig.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\InheritanceDemo\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\InheritanceDemo\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfo.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.sourcelink.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\refint\InheritanceDemo.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.genruntimeconfig.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\OOP\InheritanceDemo\InheritanceDemo\obj\Debug\net8.0\ref\InheritanceDemo.dll
