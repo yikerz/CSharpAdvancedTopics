@@ -1,0 +1,15 @@
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\BasicThread\BasicThread\bin\Debug\net8.0\BasicThread.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\BasicThread\BasicThread\bin\Debug\net8.0\BasicThread.deps.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\BasicThread\BasicThread\bin\Debug\net8.0\BasicThread.runtimeconfig.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\BasicThread\BasicThread\bin\Debug\net8.0\BasicThread.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\BasicThread\BasicThread\bin\Debug\net8.0\BasicThread.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\BasicThread\BasicThread\obj\Debug\net8.0\BasicThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\BasicThread\BasicThread\obj\Debug\net8.0\BasicThread.AssemblyInfoInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\BasicThread\BasicThread\obj\Debug\net8.0\BasicThread.AssemblyInfo.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\BasicThread\BasicThread\obj\Debug\net8.0\BasicThread.csproj.CoreCompileInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\BasicThread\BasicThread\obj\Debug\net8.0\BasicThread.sourcelink.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\BasicThread\BasicThread\obj\Debug\net8.0\BasicThread.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\BasicThread\BasicThread\obj\Debug\net8.0\refint\BasicThread.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\BasicThread\BasicThread\obj\Debug\net8.0\BasicThread.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\BasicThread\BasicThread\obj\Debug\net8.0\BasicThread.genruntimeconfig.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\BasicThread\BasicThread\obj\Debug\net8.0\ref\BasicThread.dll
