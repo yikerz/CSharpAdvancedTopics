@@ -11,14 +11,12 @@
     <Grid>
         <Button Content="Click me to download"
                 HorizontalAlignment="Left"
-                Margin="10,10,0,0"
+                Margin="318,194,0,0"
                 VerticalAlignment="Top"
                 Height="37"
                 Width="135"
                 Click="Button_Click3"
                 x:Name="MyButton" />
-        <WebBrowser Margin="20,68,26,27"
-                    />
 
     </Grid>
 </Window>

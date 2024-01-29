@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTest", "CalculatorTest\CalculatorTest.csproj", "{80B5EDFF-2439-4854-B149-8157FD4D2A44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{B70A46E1-EB24-4C6F-AA4A-5F737F50FC79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{6E558430-3854-4F66-93C9-98A20EFF94AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80B5EDFF-2439-4854-B149-8157FD4D2A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B5EDFF-2439-4854-B149-8157FD4D2A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80B5EDFF-2439-4854-B149-8157FD4D2A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80B5EDFF-2439-4854-B149-8157FD4D2A44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B70A46E1-EB24-4C6F-AA4A-5F737F50FC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B70A46E1-EB24-4C6F-AA4A-5F737F50FC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B70A46E1-EB24-4C6F-AA4A-5F737F50FC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B70A46E1-EB24-4C6F-AA4A-5F737F50FC79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E558430-3854-4F66-93C9-98A20EFF94AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E558430-3854-4F66-93C9-98A20EFF94AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E558430-3854-4F66-93C9-98A20EFF94AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E558430-3854-4F66-93C9-98A20EFF94AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FFAB695-D36A-4524-BE35-E8D7EBFB78B5}
+	EndGlobalSection
+EndGlobal
