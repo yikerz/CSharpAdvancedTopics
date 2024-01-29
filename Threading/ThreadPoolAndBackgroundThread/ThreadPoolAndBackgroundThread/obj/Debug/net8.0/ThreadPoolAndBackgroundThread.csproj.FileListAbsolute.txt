@@ -1,0 +1,15 @@
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\ThreadPoolAndBackgroundThread\ThreadPoolAndBackgroundThread\bin\Debug\net8.0\ThreadPoolAndBackgroundThread.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\ThreadPoolAndBackgroundThread\ThreadPoolAndBackgroundThread\bin\Debug\net8.0\ThreadPoolAndBackgroundThread.deps.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\ThreadPoolAndBackgroundThread\ThreadPoolAndBackgroundThread\bin\Debug\net8.0\ThreadPoolAndBackgroundThread.runtimeconfig.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\ThreadPoolAndBackgroundThread\ThreadPoolAndBackgroundThread\bin\Debug\net8.0\ThreadPoolAndBackgroundThread.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\ThreadPoolAndBackgroundThread\ThreadPoolAndBackgroundThread\bin\Debug\net8.0\ThreadPoolAndBackgroundThread.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\ThreadPoolAndBackgroundThread\ThreadPoolAndBackgroundThread\obj\Debug\net8.0\ThreadPoolAndBackgroundThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\ThreadPoolAndBackgroundThread\ThreadPoolAndBackgroundThread\obj\Debug\net8.0\ThreadPoolAndBackgroundThread.AssemblyInfoInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\ThreadPoolAndBackgroundThread\ThreadPoolAndBackgroundThread\obj\Debug\net8.0\ThreadPoolAndBackgroundThread.AssemblyInfo.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\ThreadPoolAndBackgroundThread\ThreadPoolAndBackgroundThread\obj\Debug\net8.0\ThreadPoolAndBackgroundThread.csproj.CoreCompileInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\ThreadPoolAndBackgroundThread\ThreadPoolAndBackgroundThread\obj\Debug\net8.0\ThreadPoolAndBackgroundThread.sourcelink.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\ThreadPoolAndBackgroundThread\ThreadPoolAndBackgroundThread\obj\Debug\net8.0\ThreadPoolAndBackgroundThread.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\ThreadPoolAndBackgroundThread\ThreadPoolAndBackgroundThread\obj\Debug\net8.0\refint\ThreadPoolAndBackgroundThread.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\ThreadPoolAndBackgroundThread\ThreadPoolAndBackgroundThread\obj\Debug\net8.0\ThreadPoolAndBackgroundThread.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\ThreadPoolAndBackgroundThread\ThreadPoolAndBackgroundThread\obj\Debug\net8.0\ThreadPoolAndBackgroundThread.genruntimeconfig.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\ThreadPoolAndBackgroundThread\ThreadPoolAndBackgroundThread\obj\Debug\net8.0\ref\ThreadPoolAndBackgroundThread.dll
