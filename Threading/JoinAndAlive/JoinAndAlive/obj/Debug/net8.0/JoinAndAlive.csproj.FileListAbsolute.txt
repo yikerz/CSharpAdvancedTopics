@@ -1,0 +1,15 @@
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\JoinAndAlive\JoinAndAlive\bin\Debug\net8.0\JoinAndAlive.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\JoinAndAlive\JoinAndAlive\bin\Debug\net8.0\JoinAndAlive.deps.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\JoinAndAlive\JoinAndAlive\bin\Debug\net8.0\JoinAndAlive.runtimeconfig.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\JoinAndAlive\JoinAndAlive\bin\Debug\net8.0\JoinAndAlive.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\JoinAndAlive\JoinAndAlive\bin\Debug\net8.0\JoinAndAlive.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\JoinAndAlive\JoinAndAlive\obj\Debug\net8.0\JoinAndAlive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\JoinAndAlive\JoinAndAlive\obj\Debug\net8.0\JoinAndAlive.AssemblyInfoInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\JoinAndAlive\JoinAndAlive\obj\Debug\net8.0\JoinAndAlive.AssemblyInfo.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\JoinAndAlive\JoinAndAlive\obj\Debug\net8.0\JoinAndAlive.csproj.CoreCompileInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\JoinAndAlive\JoinAndAlive\obj\Debug\net8.0\JoinAndAlive.sourcelink.json
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\JoinAndAlive\JoinAndAlive\obj\Debug\net8.0\JoinAndAlive.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\JoinAndAlive\JoinAndAlive\obj\Debug\net8.0\refint\JoinAndAlive.dll
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\JoinAndAlive\JoinAndAlive\obj\Debug\net8.0\JoinAndAlive.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\JoinAndAlive\JoinAndAlive\obj\Debug\net8.0\JoinAndAlive.genruntimeconfig.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\Threading\JoinAndAlive\JoinAndAlive\obj\Debug\net8.0\ref\JoinAndAlive.dll

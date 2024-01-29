@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoinAndAlive", "JoinAndAlive\JoinAndAlive.csproj", "{43576B1F-D538-454F-9E8B-8644BFDF1BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43576B1F-D538-454F-9E8B-8644BFDF1BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43576B1F-D538-454F-9E8B-8644BFDF1BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43576B1F-D538-454F-9E8B-8644BFDF1BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43576B1F-D538-454F-9E8B-8644BFDF1BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {399FD704-6B68-4875-865D-602DF972A348}
+	EndGlobalSection
+EndGlobal

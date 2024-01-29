@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "JoinAndAlive/1.0.0": {
+        "runtime": {
+          "JoinAndAlive.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JoinAndAlive/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
