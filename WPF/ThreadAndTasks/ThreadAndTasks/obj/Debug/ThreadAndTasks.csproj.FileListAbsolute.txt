@@ -1,0 +1,15 @@
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\WPF\ThreadAndTasks\ThreadAndTasks\bin\Debug\ThreadAndTasks.exe.config
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\WPF\ThreadAndTasks\ThreadAndTasks\bin\Debug\ThreadAndTasks.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\WPF\ThreadAndTasks\ThreadAndTasks\bin\Debug\ThreadAndTasks.pdb
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\WPF\ThreadAndTasks\ThreadAndTasks\obj\Debug\ThreadAndTasks.csproj.AssemblyReference.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\WPF\ThreadAndTasks\ThreadAndTasks\obj\Debug\MainWindow.g.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\WPF\ThreadAndTasks\ThreadAndTasks\obj\Debug\App.g.cs
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\WPF\ThreadAndTasks\ThreadAndTasks\obj\Debug\ThreadAndTasks_MarkupCompile.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\WPF\ThreadAndTasks\ThreadAndTasks\obj\Debug\ThreadAndTasks_MarkupCompile.lref
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\WPF\ThreadAndTasks\ThreadAndTasks\obj\Debug\MainWindow.baml
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\WPF\ThreadAndTasks\ThreadAndTasks\obj\Debug\ThreadAndTasks.g.resources
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\WPF\ThreadAndTasks\ThreadAndTasks\obj\Debug\ThreadAndTasks.Properties.Resources.resources
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\WPF\ThreadAndTasks\ThreadAndTasks\obj\Debug\ThreadAndTasks.csproj.GenerateResource.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\WPF\ThreadAndTasks\ThreadAndTasks\obj\Debug\ThreadAndTasks.csproj.CoreCompileInputs.cache
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\WPF\ThreadAndTasks\ThreadAndTasks\obj\Debug\ThreadAndTasks.exe
+C:\Users\Yik\source\repos\CSharpAdvanceTopics\WPF\ThreadAndTasks\ThreadAndTasks\obj\Debug\ThreadAndTasks.pdb
